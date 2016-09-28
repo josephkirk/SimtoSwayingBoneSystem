@@ -1,5 +1,5 @@
 --Import library
-fileIn "OCN/lib/OCN_rig_Libs.ms"
+fileIn "/lib/rig_Libs.ms"
 --main
 clearListener()
 try (CloseRolloutFloater OCNRig_RF) catch()
